@@ -1,0 +1,17 @@
+{
+  "name": "table-sort",
+  "version": "1.0.0",
+  "description": "Table sort plugin that does not require any dependencies. Written with VanillaJS.",
+  "main": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "table",
+    "table-sort",
+    "table-sorting",
+    "sorting"
+  ],
+  "author": "Ali GOREN",
+  "license": "Unlicense"
+}
